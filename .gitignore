@@ -1,0 +1,7 @@
+# Комментарий
+_папка_/
+# Файлы с расширением pyc или pyo или pyd
+*.py[cod]
+log/
+products/file.json
+testignore.txt
